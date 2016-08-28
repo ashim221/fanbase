@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ionicframework.ngCordova" version="0.1.12" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ngCordova Demo</name>
+    <description>
+    A demo app for ngCordova
+  </description>
+    <author email="paolo.enrico.bernasconi@gmail.com" href="http://paolobernasconi.com">
+    Paolo Bernasconi
+  </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <icon src="resources/ios/icon/icon-40@2x.png" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackupWebStorage" value="none" />
+</widget>
